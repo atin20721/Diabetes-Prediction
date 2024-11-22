@@ -61,10 +61,6 @@ PORT=3001
 └── package.json       # Project dependencies
 ```
 
-## License
-
-MIT
-
 ## Contributing
 
 1. Fork the repository
